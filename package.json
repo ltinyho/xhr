@@ -4,7 +4,7 @@
   "description": "a small XMLHttpRequest.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
+    "build": "node build.js",
     "test": "jest"
   },
   "repository": {
